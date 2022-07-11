@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChennamVenkataSaiSree
+- 👋 Hi, I’m @Chennam Venkata Sai Sree
 - 👀 I’m interested in Artificial Intelligence & Machine Learning which can help in Medical Diagnosis & automobile.
 - 📫 How to reach me LInkedIn
 
